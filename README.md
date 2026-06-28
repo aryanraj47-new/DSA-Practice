@@ -8,6 +8,7 @@ My daily LeetCode practice and DSA problem solutions.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0189-rotate-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aryanraj47-new/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -25,6 +26,7 @@ My daily LeetCode practice and DSA problem solutions.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -42,4 +44,8 @@ My daily LeetCode practice and DSA problem solutions.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
