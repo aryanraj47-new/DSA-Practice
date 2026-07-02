@@ -15,12 +15,14 @@ My daily LeetCode practice and DSA problem solutions.
 | [0189-rotate-array](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aryanraj47-new/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/aryanraj47-new/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/aryanraj47-new/DSA-Practice/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0189-rotate-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/aryanraj47-new/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/aryanraj47-new/DSA-Practice/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
 |  |
@@ -56,4 +58,8 @@ My daily LeetCode practice and DSA problem solutions.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0136-single-number) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/aryanraj47-new/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
