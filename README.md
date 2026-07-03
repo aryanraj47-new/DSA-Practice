@@ -17,6 +17,7 @@ My daily LeetCode practice and DSA problem solutions.
 | [0169-majority-element](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aryanraj47-new/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aryanraj47-new/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/aryanraj47-new/DSA-Practice/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -33,6 +34,7 @@ My daily LeetCode practice and DSA problem solutions.
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -73,4 +75,8 @@ My daily LeetCode practice and DSA problem solutions.
 | ------- |
 | [0048-rotate-image](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
