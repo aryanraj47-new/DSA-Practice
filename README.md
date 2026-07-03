@@ -9,6 +9,7 @@ My daily LeetCode practice and DSA problem solutions.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -48,6 +49,7 @@ My daily LeetCode practice and DSA problem solutions.
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
@@ -69,5 +71,6 @@ My daily LeetCode practice and DSA problem solutions.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
