@@ -17,6 +17,7 @@ My daily LeetCode practice and DSA problem solutions.
 | [0136-single-number](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aryanraj47-new/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -35,6 +36,7 @@ My daily LeetCode practice and DSA problem solutions.
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
@@ -45,10 +47,12 @@ My daily LeetCode practice and DSA problem solutions.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0229-majority-element-ii) |
 ## Math
 |  |
 | ------- |
