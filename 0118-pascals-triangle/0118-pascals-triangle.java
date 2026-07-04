@@ -5,27 +5,22 @@ class Solution {
     public List<List<Integer>> generate(int numRows) {
         List<List<Integer>> triangle = new ArrayList<>();
         
-        
         for (int i = 0; i < numRows; i++) {
-            List<Integer> row = generateRowUsingNCr(i);
+            List<Integer> row = new ArrayList<>();
+            
+            for (int j = 0; j <= i; j++) {
+                
+                if (j == 0 || j == i) {
+                    row.add(1);
+                } else {
+                    
+                    List<Integer> prevRow = triangle.get(i - 1);
+                    row.add(prevRow.get(j - 1) + prevRow.get(j));
+                }
+            }
             triangle.add(row);
         }
         
         return triangle;
-    }
-
-    
-    public List<Integer> generateRowUsingNCr(int rowIndex) {
-        List<Integer> row = new ArrayList<>();
-        long val = 1; 
-        
-        for (int r = 0; r <= rowIndex; r++) {
-            row.add((int) val);
-            
-            
-            val = val * (rowIndex - r) / (r + 1);
-        }
-        
-        return row;
     }
 }
