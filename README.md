@@ -6,6 +6,7 @@ My daily LeetCode practice and DSA problem solutions.
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
@@ -26,6 +27,7 @@ My daily LeetCode practice and DSA problem solutions.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0189-rotate-array) |
@@ -46,6 +48,7 @@ My daily LeetCode practice and DSA problem solutions.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0229-majority-element-ii) |
 ## Counting
