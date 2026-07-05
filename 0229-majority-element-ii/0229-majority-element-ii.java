@@ -1,22 +1,41 @@
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
-        Map<Integer,Integer> maj=new HashMap<>();
+        int c1=0,e1=0,c2=0,e2=0,n=0;
+        n=nums.length;
         for(int i=0;i<nums.length;i++){
-            if(maj.containsKey(nums[i])){
-                maj.put(nums[i],maj.get(nums[i])+1);
+            if(nums[i]==e1) c1++;
+            else if(nums[i]==e2) c2++;
+            else if(c1==0){
+                e1=nums[i];
+                c1++;
+            }
+            else if(c2==0){
+                e2=nums[i];
+                c2++;
             }
             else{
-                maj.put(nums[i],1);
+                c1--;
+                c2--;
             }
         }
-        int n=nums.length;
-        List<Integer> ele=new ArrayList<>();
-        for(Map.Entry<Integer,Integer> entry:maj.entrySet()){
-            if(entry.getValue()>n/3){
-                ele.add(entry.getKey());
+        c1=0;
+        c2=0;
+        for(int i=0;i<nums.length;i++){
+            if(nums[i]==e1){
+                c1++;
+            }
+            if(nums[i]==e2){
+                c2++;
             }
         }
-        return ele;
-        
+        Set<Integer> arr=new LinkedHashSet<>();
+        if(c1>n/3){
+            arr.add(e1);
+        }
+        if(c2>n/3){
+            arr.add(e2);
+        }
+        List<Integer> maj=new ArrayList<>(arr);
+        return maj;
     }
 }
