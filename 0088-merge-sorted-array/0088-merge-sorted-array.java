@@ -8,7 +8,13 @@ class Solution {
             }
             i++;
         }
-        Arrays.sort(nums1);
+        PriorityQueue<Integer> pq=new PriorityQueue<>();
+        for(int k:nums1){
+            pq.offer(k);
+        }
+        for(int k=0;k<nums1.length;k++){
+            nums1[k]=pq.poll();
+        }
         return;
         
     }
