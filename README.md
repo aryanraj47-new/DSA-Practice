@@ -26,6 +26,7 @@ My daily LeetCode practice and DSA problem solutions.
 | [0189-rotate-array](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -80,6 +81,7 @@ My daily LeetCode practice and DSA problem solutions.
 | [0035-search-insert-position](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Dynamic Programming
