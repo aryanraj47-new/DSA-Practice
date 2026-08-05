@@ -22,6 +22,7 @@ My daily LeetCode practice and DSA problem solutions.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0229-majority-element-ii) |
@@ -81,6 +82,7 @@ My daily LeetCode practice and DSA problem solutions.
 | [0035-search-insert-position](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
