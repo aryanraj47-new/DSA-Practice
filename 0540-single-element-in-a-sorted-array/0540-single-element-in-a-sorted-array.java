@@ -1,9 +1,17 @@
 class Solution {
     public int singleNonDuplicate(int[] nums) {
-        int sum=0;
-        for(int i=0;i<nums.length;i++){
-            sum=sum^nums[i];
+        int n=nums.length;
+        int s=0,e=n-1;
+        while(s<e){
+            int mid=s+(e-s)/2;
+            if(mid%2==0&&nums[mid]==nums[mid+1] || mid%2==1&&nums[mid]==nums[mid-1]){
+                s=mid+1;
+            }
+            else{
+                e=mid;
+            }
         }
-        return sum;
+        return nums[s];
+
     }
 }
