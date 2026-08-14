@@ -31,6 +31,7 @@ My daily LeetCode practice and DSA problem solutions.
 | [0560-subarray-sum-equals-k](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aryanraj47-new/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aryanraj47-new/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/aryanraj47-new/DSA-Practice/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -86,6 +87,7 @@ My daily LeetCode practice and DSA problem solutions.
 | [0540-single-element-in-a-sorted-array](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 ## Dynamic Programming
 |  |
 | ------- |
