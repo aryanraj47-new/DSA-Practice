@@ -29,7 +29,7 @@ class Solution {
                 }
             }
             else    adjf=0;
-
+            if(bouqet>=m)   return true;
         }
         return bouqet>=m;
     }
