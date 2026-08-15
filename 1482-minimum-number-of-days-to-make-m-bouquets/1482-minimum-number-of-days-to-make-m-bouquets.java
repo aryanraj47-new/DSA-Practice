@@ -2,7 +2,11 @@ class Solution {
     public int minDays(int[] bloomDay, int m, int k) {
         int n=bloomDay.length;
         if(n<(long)m*k)   return -1;
-        int s=1,e=Integer.MAX_VALUE;
+        int max=0;
+        for(int i=0;i<n;i++){
+            if(max<bloomDay[i]) max=bloomDay[i];
+        }
+        int s=1,e=max;
         while(s<e){
             int mid=s+(e-s)/2;
             if(isvalid(bloomDay,m,k,mid)){
