@@ -31,3 +31,4 @@ class Solution {
         return c<=k;
     }
 }
+//intution: count the no of arrays u can make for mid
