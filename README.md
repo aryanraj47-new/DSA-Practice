@@ -6,6 +6,7 @@ My daily LeetCode practice and DSA problem solutions.
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0031-next-permutation) |
@@ -134,6 +135,7 @@ My daily LeetCode practice and DSA problem solutions.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/aryanraj47-new/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
@@ -146,4 +148,8 @@ My daily LeetCode practice and DSA problem solutions.
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/aryanraj47-new/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
