@@ -55,6 +55,7 @@ My daily LeetCode practice and DSA problem solutions.
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0205-isomorphic-strings) |
@@ -86,6 +87,7 @@ My daily LeetCode practice and DSA problem solutions.
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/aryanraj47-new/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
@@ -140,6 +142,7 @@ My daily LeetCode practice and DSA problem solutions.
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/aryanraj47-new/DSA-Practice/tree/master/0205-isomorphic-strings) |
